@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155721611702",
+    "firebase_url": "https://ohisan-photovolt-default-rtdb.firebaseio.com",
+    "project_id": "ohisan-photovolt",
+    "storage_bucket": "ohisan-photovolt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155721611702:android:6617142ec43b96caf02917",
+        "android_client_info": {
+          "package_name": "com.ohisanphotovolt.ohisanphotovoltapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155721611702-b8cb1f8og0ubqvs1mkv32tfev0hh8o5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ohisanphotovolt.ohisanphotovoltapp",
+            "certificate_hash": "c95da2f0bf22e2e7824859cea82691db8440f35c"
+          }
+        },
+        {
+          "client_id": "155721611702-fvkcrb3nbl3lhbq3q1hujp8i9ug7m79a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDAUZ1-I_MF_r6FXDjBAVHCa8MT3sNts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155721611702-fvkcrb3nbl3lhbq3q1hujp8i9ug7m79a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
